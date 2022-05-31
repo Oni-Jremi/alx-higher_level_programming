@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 figure = 98
-print(str(figure) + " " + "Battery street")
+print(f"{figure:d} Battery street")
