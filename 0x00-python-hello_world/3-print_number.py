@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-number = 98
-print(str(number) + " " + "Battery street")
+figure = 98
+print(str(figure) + " " + "Battery street")
